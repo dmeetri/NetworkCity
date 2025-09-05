@@ -1,0 +1,24 @@
+.header {
+    color: var(--color-white);
+    border-bottom: 3px solid var(--color-dark-red);
+}
+
+.top-header {
+    padding: 20px 0;
+    background-color: var(--color-gray);
+}
+.top-header-content {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bottom-header {
+    padding: 13px 0;
+    background-color: var(--color-dark-gray);
+}
+.header-bottom-link {
+    margin-right: 20px;
+}
+.header-bottom-link:hover {
+    color: var(--color-dark-red);
+}
